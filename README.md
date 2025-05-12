@@ -67,8 +67,4 @@ Model is trained for 10 epochs and achieves competitive accuracy depending on da
 
 ## 📷 Demo
 
-![demo](screenshot.png)
-
 ## 🤝 Acknowledgments
-
-This project was created as part of the **Naan Mudhalvan** program.
